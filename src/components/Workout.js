@@ -30,7 +30,6 @@ export default function Workout() {
       <div class="col2">
         <img
           src="https://s3.amazonaws.com/paper-tiger-website/uploads/c-art-image-1306.jpg"
-          data-ix="ia-mask-image"
           srcset="https://s3.amazonaws.com/paper-tiger-website/uploads/c-art-image-500.jpg 500w, https://s3.amazonaws.com/paper-tiger-website/uploads/c-art-image-1080.jpg 800w, https://s3.amazonaws.com/paper-tiger-website/uploads/c-art-image-1080.jpg 1080w, https://s3.amazonaws.com/paper-tiger-website/uploads/c-art-image-1306.jpg 1306w"
           sizes="(max-width: 479px) 88vw, (max-width: 991px) 79vw, 59vw"
           alt=" "

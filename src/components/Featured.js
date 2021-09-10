@@ -12,7 +12,7 @@ export default function Featured() {
           <div class="c-grid">
             <a
               href="https://papertiger.com/work/ltn-global"
-              data-ix="cs-thumb"
+              
               class="cs-thumb cs-thumbSmall w-inline-block"
             >
               <div class="cs-thumb__txt">
@@ -39,13 +39,13 @@ export default function Featured() {
               <img
                 src="https://s3.us-east-1.amazonaws.com/paper-tiger-website/uploads/LTN/Shot-5.jpg"
                 width="281"
-                data-ix="ia-cs-image"
+             
                 class="lozad cs-thumb__img"
               />
             </a>
             <a
               href="https://papertiger.com/work/fort-point-beer"
-              data-ix="cs-thumb-2"
+              
               class="cs-thumb cs-thumbSmall w-inline-block"
             >
               <div class="cs-thumb__txt">
@@ -72,13 +72,13 @@ export default function Featured() {
               <img
                 src="https://s3.us-east-1.amazonaws.com/paper-tiger-website/uploads/Fort-Point-Beer/thumb-fort-point-beer.jpg"
                 width="281"
-                data-ix="ia-cs-image"
+                
                 class="lozad cs-thumb__img"
               />
             </a>
             <a
               href="https://papertiger.com/work/liquidnet"
-              data-ix="cs-thumb"
+              
               class="cs-thumb cs-thumbSmall w-inline-block"
             >
               <div class="cs-thumb__txt">
@@ -105,13 +105,13 @@ export default function Featured() {
               <img
                 src="https://s3.us-east-1.amazonaws.com/paper-tiger-website/uploads/Liquidnet/Cover.jpg"
                 width="281"
-                data-ix="ia-cs-image"
+                
                 class="lozad cs-thumb__img"
               />
             </a>
             <a
               href="https://papertiger.com/work/texas-de-brazil"
-              data-ix="cs-thumb-2"
+              
               class="cs-thumb cs-thumbSmall w-inline-block"
             >
               <div class="cs-thumb__txt">
@@ -138,7 +138,7 @@ export default function Featured() {
               <img
                 src="https://s3.us-east-1.amazonaws.com/paper-tiger-website/uploads/Texas-de-Brazil/thumb-texas-de-brazil.jpg"
                 width="281"
-                data-ix="ia-cs-image"
+             
                 class="lozad cs-thumb__img"
               />
             </a>
@@ -171,7 +171,7 @@ export default function Featured() {
               <img
                 src="https://s3.us-east-1.amazonaws.com/paper-tiger-website/uploads/insider/insider-thumb.jpg"
                 width="281"
-                data-ix="ia-cs-image"
+                
                 class="lozad cs-thumb__img"
               />
             </a>
@@ -204,7 +204,7 @@ export default function Featured() {
               <img
                 src="https://s3.us-east-1.amazonaws.com/paper-tiger-website/uploads/NYT/nytThumb-1.jpg"
                 width="281"
-                data-ix="ia-cs-image"
+                
                 class="lozad cs-thumb__img"
               />
             </a>
@@ -237,13 +237,13 @@ export default function Featured() {
               <img
                 src="https://s3.us-east-1.amazonaws.com/paper-tiger-website/uploads/McBride-Company/McBride-Thumb.jpg"
                 width="281"
-                data-ix="ia-cs-image"
+                
                 class="lozad cs-thumb__img"
               />
             </a>
             <a
               href="https://papertiger.com/work/pro-sound-effects"
-              data-ix="cs-thumb-2"
+            
               class="cs-thumb cs-thumbSmall w-inline-block"
             >
               <div class="cs-thumb__txt">
@@ -270,13 +270,13 @@ export default function Featured() {
               <img
                 src="https://s3.us-east-1.amazonaws.com/paper-tiger-website/uploads/Prosound/Thumb@2x.jpg"
                 width="281"
-                data-ix="ia-cs-image"
+                
                 class="lozad cs-thumb__img"
               />
             </a>
             <a
               href="https://papertiger.com/work/t-edward-wines"
-              data-ix="cs-thumb"
+    
               class="cs-thumb cs-thumbSmall w-inline-block"
             >
               <div class="cs-thumb__txt">
@@ -303,7 +303,7 @@ export default function Featured() {
               <img
                 src="https://s3.us-east-1.amazonaws.com/paper-tiger-website/uploads/Tedwards/thumb-tew.jpg"
                 width="281"
-                data-ix="ia-cs-image"
+                
                 class="lozad cs-thumb__img"
               />
             </a>
@@ -313,7 +313,7 @@ export default function Featured() {
         <div class="c-more">
           <a
             class="c-more__link w-clearfix w-inline-block"
-            data-ix="link-line-hover"
+            
             href="/work"
           >
             <h5 class="c-more__label">EXPLORE MORE WORK</h5>
